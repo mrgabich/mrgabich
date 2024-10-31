@@ -57,7 +57,7 @@
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://www.arm.com/-/media/global/logos/Arm-logo-reverse-white.svg" height="30px" />&nbsp;&nbsp;&nbsp;
   <img src="https://riscv.org/wp-content/uploads/2020/06/riscv-color.svg" height="25px" />&nbsp;&nbsp;&nbsp;
-  <img src="http://www.imperas.com/sites/default/files/partner-logos/ovp_0.jpg" height="40px" />&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/OVPworld/Information/blob/20240902/images/logo_OVP.gif" height="40px" />&nbsp;&nbsp;&nbsp;
   <img src="https://www.gem5.org/assets/img/gem5ColorLong.gif" height="50px" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
