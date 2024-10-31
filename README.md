@@ -35,7 +35,7 @@
   <img src="https://www.linuxadictos.com/wp-content/uploads/LLVM.png" height="50px" />&nbsp;&nbsp;&nbsp;
   <!--- <img src="https://foundation.llvm.org/logo.png" height="60px" />&nbsp;&nbsp;&nbsp; -->
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp;&nbsp;&nbsp;
-  <img src="https://meterpreter.org/wp-content/uploads/2018/10/800px-Freertos.png" height="30px" />&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/FreeRTOS/FreeRTOS-Kernel-Book/blob/main/media/freeRTOS.png" height="30px" />&nbsp;&nbsp;&nbsp;
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white" />&nbsp;&nbsp;&nbsp;
