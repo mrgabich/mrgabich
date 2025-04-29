@@ -10,7 +10,7 @@
 <h2 align="center"> 🔭 Academic/Professional Network :man_scientist: </h2>
 <p align="center">
     <a href="https://github.com/mrgabich" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
-    <a href="http://lattes.cnpq.br/0218273654317320" target="blank"><img src="https://memoria.cnpq.br/Portal-Lattes-theme/images/logo-lattes.png" height="35px"></a>&nbsp;&nbsp;&nbsp;
+    <a href="http://lattes.cnpq.br/0218273654317320" target="blank"><img src="https://uniaodavitoria.unespar.edu.br/arquivos/lattes.png" height="45px"></a>&nbsp;&nbsp;&nbsp;
     <a href="https://orcid.org/0000-0001-9387-1523" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
     <img src="https://www.inf.ufrgs.br/~gabich/images/ORCID.png" height="80px" alt="ORCID">
 	</p>
