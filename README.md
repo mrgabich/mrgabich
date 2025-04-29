@@ -18,7 +18,7 @@
 <p align="center">
 	<a href="https://scholar.google.com/citations?hl=en&user=d7fcdVwAAAAJ" target="blank"><img src="https://img.icons8.com/color/344/google-scholar--v3.png" height="40px"></a>&nbsp;&nbsp;&nbsp;
 	<a href="https://dblp.uni-trier.de/pid/194/7316.html" target="blank"><img src="https://www.inf.ufrgs.br/~gabich/images/dblp.png" height="40px"></a>&nbsp;&nbsp;&nbsp;
-	<a href="https://www2.scopus.com/authid/detail.uri?authorId=57193626912" target="blank"><img src="https://www.inf.ufrgs.br/~gabich/images/scopus.png" height="32px"></a>
+	<a href="https://www.scopus.com/authid/detail.uri?authorId=57193626912" target="blank"><img src="https://www.inf.ufrgs.br/~gabich/images/scopus.png" height="32px"></a>
   <a href="https://ieeexplore.ieee.org/author/37086154428" target="blank"><img src="https://ieeexplore.ieee.org/assets/img/xplore_logo_white.svg" height="24px"></a>
   <a href="https://stackoverflow.com/users/5285937/geancarlo-abich" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white"></a>
 </p>
